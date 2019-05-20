@@ -1,29 +1,21 @@
-# Live-Stream
-A website which can share live stream, download YouTube video into website and edit it.
+# Search_news
+Searching some news, using PHP and Codeigniter.
 
-[Live Stream](https://www.wuhsun.com "Title")
+[Search News](https://php.wuhsun.com "Title")
 
-* Test User: wuchienhsun01@gmail.com
-* Password: 123456
+* Test User: 107dba07
+* Password: 107dba07
 
 # Technologies
 
 * **Backend**
-  * Language: Node.js
-  * Library & Framework: Express / Socket.IO
+  * Language: PHP
+  * Framework: Codeigniter
   * Database: MySQL
-  * ORM: Sequelize.js
-  * Data security & check: Passport.js / Validate.js / JWT(JSON Web Tokens)
-  * Unit Test: Mocha
   * Cloud service: AWS EC2
-  * CloudFront : AWS CDN
-  * Simple Storage Service: AWS S3
 * **Front-End**
-  * Language: HTML / CSS / JavaScript
-  * Library & Framework: React / Redux / Bootstrap 4
-  * Website design: Single Page Application
-# Live Stream API Documentation
-* [API Document](https://www.wuhsun.com "Title")
+  * Language: HTML / CSS
+  * Library & Framework: Bootstrap 4
 
 # Features
 * Realtime Live Stream and Chat Room
