@@ -18,6 +18,3 @@ Searching some news, using PHP and Codeigniter.
   * Library & Framework: Bootstrap 4
 
 # Features
-* Realtime Live Stream and Chat Room
-* Video online editing
-* 
