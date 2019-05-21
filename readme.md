@@ -18,3 +18,7 @@ Searching some news, using PHP and Codeigniter.
   * Library & Framework: Bootstrap 4
 
 # Features
+* Read some News
+![img](https://i.imgur.com/9qGsoY2.png)
+* make some comment
+![img](https://i.imgur.com/iDXgRzl.png)
