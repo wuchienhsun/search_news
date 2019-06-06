@@ -1,7 +1,7 @@
 # Search_news
 Searching some news, using PHP and Codeigniter.
 
-[Search News](https://php.wuhsun.com "Title")
+[Search News](http://php.wuhsun.com "Title")
 
 * Test User: 107dba07
 * Password: 107dba07
